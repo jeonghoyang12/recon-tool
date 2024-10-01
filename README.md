@@ -1,3 +1,5 @@
+## Recon-Tool
+
 A simple reconnaissance tool for ethical hacking and bug bounty hunting.
 
 This tool is designed to perform various network reconnaissance tasks such as port scanning, DNS enumeration, and WHOIS lookup. It uses multithreading to speed up the process and handles common errors gracefully.
